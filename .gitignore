@@ -1,0 +1,20 @@
+# Local datasets
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.parquet
+*.feather
+*.zip
+*.gz
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
